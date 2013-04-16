@@ -1,0 +1,174 @@
+﻿Build started 4/9/2013 4:09:38 PM.
+     1>Project "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\Windows Game\GAM-1532 Windows Game.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_MATH_DEFINES /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\\" /Fd"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Common\Game\Tiles\MudTile.cpp ..\..\Common\Game\Tiles\TreeTile.cpp ..\..\Common\Game\Tiles\WaterTile.cpp
+         WaterTile.cpp
+     1>c:\users\gran0316\desktop\path finding source code-1-1\source\common\opengl\openglcolor.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\gran0316\desktop\path finding source code-1-1\source\common\opengl\openglcolor.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\gran0316\desktop\path finding source code-1-1\source\common\opengl\openglcolor.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+         TreeTile.cpp
+     1>c:\users\gran0316\desktop\path finding source code-1-1\source\common\opengl\openglcolor.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\gran0316\desktop\path finding source code-1-1\source\common\opengl\openglcolor.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\gran0316\desktop\path finding source code-1-1\source\common\opengl\openglcolor.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+         MudTile.cpp
+     1>c:\users\gran0316\desktop\path finding source code-1-1\source\common\opengl\openglcolor.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\gran0316\desktop\path finding source code-1-1\source\common\opengl\openglcolor.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\gran0316\desktop\path finding source code-1-1\source\common\opengl\openglcolor.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+         Generating Code...
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Application\GAM-1532 Windows Game.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\Dependencies\DevIL\lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\Application\GAM-1532 Windows Game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Application\GAM-1532 Windows Game.lib" /MACHINE:X86 "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game.exe.embed.manifest.res"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GameConstants.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\LevelConstants.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\ResourceConstants.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Game.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GameObject.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Level.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Level2.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Level3.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Level4.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Level5.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\TestLevel.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\PathFinder.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Pathnode.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Player.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GroundTile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\MudTile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Tile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\TreeTile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\WallTile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\WaterTile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\InputConstants.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\InputListener.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\InputManager.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\png.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngerror.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngget.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngmem.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngpread.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngread.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngrio.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngrtran.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngrutil.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngset.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngtest.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngtrans.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngwio.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngwrite.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngwtran.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngwutil.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLAnimatedTexture.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLRenderer.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLTexture.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLTextureLoader.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLTextureManager.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Screen.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\ScreenManager.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Logger.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\MathUtils.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\ResourceUtils.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\adler32.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\compress.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\crc32.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\deflate.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\gzclose.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\gzlib.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\gzread.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\gzwrite.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\infback.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\inffast.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\inflate.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\inftrees.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\trees.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\uncompr.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\zutil.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Win32Constants.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Win32Game.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Main.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLWindow.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game.exe.embed.manifest" /manifest "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game.exe.embed.manifest.res" "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Application\GAM-1532 Windows Game.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\Dependencies\DevIL\lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\Application\GAM-1532 Windows Game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Application\GAM-1532 Windows Game.lib" /MACHINE:X86 "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game.exe.embed.manifest.res"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GameConstants.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\LevelConstants.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\ResourceConstants.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Game.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GameObject.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Level.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Level2.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Level3.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Level4.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Level5.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\TestLevel.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\PathFinder.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Pathnode.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Player.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GroundTile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\MudTile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Tile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\TreeTile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\WallTile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\WaterTile.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\InputConstants.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\InputListener.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\InputManager.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\png.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngerror.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngget.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngmem.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngpread.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngread.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngrio.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngrtran.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngrutil.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngset.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngtest.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngtrans.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngwio.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngwrite.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngwtran.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\pngwutil.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLAnimatedTexture.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLRenderer.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLTexture.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLTextureLoader.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLTextureManager.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Screen.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\ScreenManager.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Logger.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\MathUtils.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\ResourceUtils.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\adler32.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\compress.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\crc32.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\deflate.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\gzclose.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\gzlib.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\gzread.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\gzwrite.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\infback.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\inffast.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\inflate.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\inftrees.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\trees.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\uncompr.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\zutil.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Win32Constants.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Win32Game.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\Main.obj"
+         "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\OpenGLWindow.obj"
+         GAM-1532 Windows Game.vcxproj -> C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Application\GAM-1532 Windows Game.exe
+       FinalizeBuildStatus:
+         Deleting file "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game.unsuccessfulbuild".
+         Touching "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\\Build Files\Debug\GAM-1532 Windows Game.lastbuildstate".
+     1>Done Building Project "C:\Users\gran0316\Desktop\Path Finding Source Code-1-1\Source\Windows\Windows Game\GAM-1532 Windows Game.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.69
